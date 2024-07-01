@@ -8,7 +8,7 @@ import Flutter
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
-    print("***REMOVED***")
+    print("TestRemove")
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }
